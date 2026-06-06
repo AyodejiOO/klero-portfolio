@@ -12,6 +12,8 @@ UI, two Expo apps, payments, SMS, AI document checks, the lot.
 This repo is a **portfolio overview**. Source lives in a private repo —
 available on request.
 
+_Built by **Ayodeji Ogunniyi** with **Osaro**, 2025–2026._
+
 ---
 
 ## What's in the platform
@@ -32,8 +34,8 @@ runs today.
 - **Public importer tracking** — `klero.app/t/<token>` deep-link page
   importers receive via WhatsApp
 
-> _Screenshot: Terminal OS dashboard_
-> _Screenshot: Anti-leakage report_
+![Terminal OS owner dashboard](./screenshots/terminal-dashboard.png)
+![Anti-leakage report](./screenshots/anti-leakage-report.png)
 
 ### 📱 Klero Agent (iOS + Android, Expo)
 Native mobile companion for clearing agents — typically managing 5–50
@@ -47,8 +49,8 @@ containers across multiple terminals at any time.
 - PIN + Face ID / Fingerprint, offline-aware
 - WhatsApp + push notifications on every status change
 
-> _Screenshot: Agent dashboard_
-> _Screenshot: Container registration document upload_
+![Klero Agent container dashboard](./screenshots/agent-dashboard.png)
+![Container registration — document upload](./screenshots/agent-register-docs.png)
 
 ### ⛽ Klero Station (iOS + Android, Expo)
 Built for fuel-station attendants in the freight-ops module. Replaces
@@ -62,8 +64,8 @@ the paper sheet that gets falsified.
 - Offline-resilient: transactions queue if the station's connectivity
   drops, sync when it's back
 
-> _Screenshot: New transaction screen_
-> _Screenshot: Dispensing animation + confirm_
+![Station new fueling transaction](./screenshots/station-new-transaction.png)
+![Station dispensing and confirm](./screenshots/station-dispensing.png)
 
 ---
 
@@ -201,4 +203,4 @@ Happy to:
 
 ---
 
-_Built by Ayodeji Ogunniyi, 2025–2026._
+_Built by Ayodeji Ogunniyi with Osaro, 2025–2026._
