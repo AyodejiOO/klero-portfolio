@@ -14,7 +14,7 @@ AI for document and image understanding.
 This repo is a **portfolio overview**. The source is private — available
 on request.
 
-_Built by **Ayodeji Ogunniyi** with **Osaro**, 2025–2026._
+_Built by **Ayodeji Ogunniyi** with a collaborator, 2025–2026._
 
 **Scale at a glance:** 4 client surfaces (web + 2 mobile + public
 tracking) · ~76 Edge Functions · 94 database migrations · 5 distinct
@@ -326,4 +326,4 @@ Nigerian domain detail competitors could lift directly. Happy to:
 
 ---
 
-_Built by Ayodeji Ogunniyi with Osaro, 2025–2026._
+_Built by Ayodeji Ogunniyi with a collaborator, 2025–2026._
